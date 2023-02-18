@@ -1,0 +1,7 @@
+requests
+boto3
+pandas
+numpy
+tensorflow-cpu
+pyrebase
+PyJWT
